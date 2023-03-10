@@ -1,6 +1,6 @@
 # Library_M_S :)
-
-# ADD FILES IN NETBEANS IDE AND RUN
+## Add this file `library_ms.sql` in MYSQL Database 
+## ADD FILES IN NETBEANS IDE AND RUN
 
 <img src="https://github.com/KUNJ1311/Library_M_S/blob/master/src/icons/l1.png" width="500px"  />
 <img src="https://github.com/KUNJ1311/Library_M_S/blob/master/src/icons/l2.png" width="500px"  />
