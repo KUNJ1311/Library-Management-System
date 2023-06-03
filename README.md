@@ -1,8 +1,8 @@
-# Library_M_S
+# Library Management System :)
+## Add this file `library_ms.sql` in MYSQL Database 
+## ADD FILES IN NETBEANS IDE AND RUN
 
-# ADD FILES IN NETBEANS IDE AND RUN
-
-<img src="https://github.com/KUNJ1311/Library_M_S/blob/master/src/icons/l1.png" width="500px"  />
+<img src="./src/icons/l1.png" width="500px"  />
 <img src="https://github.com/KUNJ1311/Library_M_S/blob/master/src/icons/l2.png" width="500px"  />
 <img src="https://github.com/KUNJ1311/Library_M_S/blob/master/src/icons/l3.png" width="500px"  />
 <img src="https://github.com/KUNJ1311/Library_M_S/blob/master/src/icons/l41.png" width="500px"  />
