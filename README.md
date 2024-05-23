@@ -1,5 +1,7 @@
-# Library Management System :)
-## Add this file `library_ms.sql` in MYSQL Database 
+# Library Management System
+
+## Add this file `library_ms.sql` in MYSQL Database
+
 ## ADD FILES IN NETBEANS IDE AND RUN
 
 <img src="https://github.com/KUNJ1311/Library-Management-System/assets/74526794/355d7b2b-12ba-4571-9f6a-5ee7874c5d58" width="500px"  />
