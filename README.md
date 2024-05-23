@@ -1,4 +1,4 @@
-# Library Management System
+# Library Management System :)
 
 ## Add this file `library_ms.sql` in MYSQL Database
 
